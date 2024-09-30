@@ -12,6 +12,7 @@ struct ColorClassicStruct {
     blue: i32,
 }
 
+
 struct ColorTupleStruct(i32, i32, i32);
 
 #[derive(Debug)]
